@@ -691,7 +691,7 @@ GameObject:
   m_Layer: 0
   m_Name: Star
   m_TagString: Untagged
-  m_Icon: {fileID: 0}
+  m_Icon: {fileID: 2974397684917235467, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -724,7 +724,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _spawnDelay: 1
   _spawnAtBegining: 1
-  _useRandomPrefab: 1
+  _useRandomPrefab: 0
   _prefabs:
   - {fileID: 2843280986976000959, guid: 1499b60ba7558e046904807495df7353, type: 3}
 --- !u!1 &2096108149
